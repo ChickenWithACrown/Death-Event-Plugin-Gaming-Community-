@@ -21,7 +21,7 @@ To stop the Death Event, use the `/DeathEventStop` command. This will cancel the
 1. Download the plugin JAR file from the [releases page](https://github.com/ChickenWithACrown/Death-Event-Plugin-Gaming-Community-/releases).
 2. Place the JAR file in the `plugins` folder of your Minecraft server.
 3. Restart or reload your server to load the plugin.
-4. To get to the .jar file follow the address C:\Users\yourname\IdeaProjects\Death Event\src\main\java\deathevent\deathevent
+4. To get to the .jar file follow the address `C:\Users\yourname\IdeaProjects\Death Event\src\main\java\deathevent\deathevent`
 ## Commands
 
 - `/DeathEventStart`: Starts the Death Event and assigns tasks to players.
