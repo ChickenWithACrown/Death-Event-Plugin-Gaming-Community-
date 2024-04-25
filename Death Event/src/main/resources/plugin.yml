@@ -1,0 +1,4 @@
+name: Death Event
+version: '${project.version}'
+main: deathevent.deathevent.DeathEvent
+api-version: '1.20'

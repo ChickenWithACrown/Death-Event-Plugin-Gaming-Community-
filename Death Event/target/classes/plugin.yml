@@ -1,0 +1,4 @@
+name: Death Event
+version: '1.0-SNAPSHOT'
+main: deathevent.deathevent.DeathEvent
+api-version: '1.20'
