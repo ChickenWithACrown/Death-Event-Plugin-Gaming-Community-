@@ -1,7 +1,3 @@
-# Death-Event-Plugin-Gaming-Community-
-The plugin is a custom plugin that I created for my Minecraft server called Gaming Community. The name of the plugin is "Death Event". When /deatheventstart is ran it will give all players a random timer from 1 min to 24 hours, to complete the task, ranging from growing a tree to respawning and killing the ender dragon. 
-
-# Install
 # Death Event Plugin for Gaming Community
 
 The Death Event Plugin is a Minecraft plugin designed for gaming communities to add dynamic challenges and tasks for players to complete. When players join the server, they are assigned a random task with a timer. If they fail to complete the task within the allotted time, they are kicked from the server. However, if they manage to complete the task before time runs out, they receive a "You Survived" message.
@@ -25,7 +21,7 @@ To stop the Death Event, use the `/DeathEventStop` command. This will cancel the
 1. Download the plugin JAR file from the [releases page](https://github.com/ChickenWithACrown/Death-Event-Plugin-Gaming-Community-/releases).
 2. Place the JAR file in the `plugins` folder of your Minecraft server.
 3. Restart or reload your server to load the plugin.
-
+4. To get to the .jar file follow the address C:\Users\yourname\IdeaProjects\Death Event\src\main\java\deathevent\deathevent
 ## Commands
 
 - `/DeathEventStart`: Starts the Death Event and assigns tasks to players.
