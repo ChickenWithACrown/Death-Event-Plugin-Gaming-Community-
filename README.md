@@ -33,4 +33,4 @@ Contributions to the Death Event Plugin are welcome! If you have any ideas for i
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ChickenWithACrown/Death-Event-Plugin-Gaming-Community-/blob/main/license) file for details.
